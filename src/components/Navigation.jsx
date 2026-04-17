@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 import { Home, Clock, BarChart3, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
-export default function Navbar() {
+export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
