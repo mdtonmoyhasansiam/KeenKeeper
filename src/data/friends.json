@@ -1,285 +1,241 @@
 [
   {
     "id": 1,
-    "name": "Sarah Jenkins",
-    "picture": "https://i.pravatar.cc/250?img=1",
+    "name": "Liam Anderson",
+    "picture": "https://i.pravatar.cc/250?img=41",
     "email": "sarah.j@example.com",
     "days_since_contact": 15,
     "status": "overdue",
-    "tags": [
-      "college",
-      "close friend"
-    ],
-    "bio": "My best friend from university. We share a love for hiking.",
+    "tags": ["college", "close friend"],
+    "bio": "University friend from Toronto days. We bonded over hiking and late-night talks.",
     "goal": 14,
     "next_due_date": "2026-04-10"
   },
   {
     "id": 2,
-    "name": "Michael Chen",
-    "picture": "https://i.pravatar.cc/250?img=11",
+    "name": "Olivia Bennett",
+    "picture": "https://i.pravatar.cc/250?img=42",
     "email": "m.chen@work.com",
     "days_since_contact": 3,
     "status": "on-track",
-    "tags": [
-      "work",
-      "mentor"
-    ],
-    "bio": "Senior Dev at my first job. Always gives the best career advice.",
+    "tags": ["work", "mentor"],
+    "bio": "Colleague from a Vancouver startup. Always gives solid tech advice.",
     "goal": 7,
     "next_due_date": "2026-04-18"
   },
   {
     "id": 3,
-    "name": "Elena Rodriguez",
-    "picture": "https://i.pravatar.cc/250?img=5",
+    "name": "Noah Campbell",
+    "picture": "https://i.pravatar.cc/250?img=43",
     "email": "elena.rod@example.com",
     "days_since_contact": 10,
     "status": "almost due",
-    "tags": [
-      "gym",
-      "travel"
-    ],
-    "bio": "Met in Spain during a backpacking trip. Hardest worker I know.",
+    "tags": ["gym", "travel"],
+    "bio": "Met during a backpacking trip across Banff. Fitness enthusiast and adventurer.",
     "goal": 12,
     "next_due_date": "2026-04-16"
   },
   {
     "id": 4,
-    "name": "David Smith",
-    "picture": "https://i.pravatar.cc/250?img=12",
+    "name": "Emma Carter",
+    "picture": "https://i.pravatar.cc/250?img=44",
     "email": "david.smith@example.com",
     "days_since_contact": 22,
     "status": "overdue",
-    "tags": [
-      "childhood"
-    ],
-    "bio": "Lived next door for 15 years. Basically like a brother to me.",
+    "tags": ["childhood"],
+    "bio": "Grew up in the same neighbourhood in Ottawa. Feels like family.",
     "goal": 14,
     "next_due_date": "2026-04-05"
   },
   {
     "id": 5,
-    "name": "Aisha Khan",
-    "picture": "https://i.pravatar.cc/250?img=9",
+    "name": "Lucas Mitchell",
+    "picture": "https://i.pravatar.cc/250?img=45",
     "email": "aisha.k@example.com",
     "days_since_contact": 1,
     "status": "on-track",
-    "tags": [
-      "photography"
-    ],
-    "bio": "Professional photographer. We go on photo walks every month.",
+    "tags": ["photography"],
+    "bio": "Photographer from Montreal who loves street photography walks.",
     "goal": 30,
     "next_due_date": "2026-05-12"
   },
   {
     "id": 6,
-    "name": "James Wilson",
-    "picture": "https://i.pravatar.cc/250?img=13",
+    "name": "Ava Thompson",
+    "picture": "https://i.pravatar.cc/250?img=46",
     "email": "james.w@example.com",
     "days_since_contact": 6,
     "status": "on-track",
-    "tags": [
-      "neighbor"
-    ],
-    "bio": "Kindest neighbor. Always helps with gardening tips.",
+    "tags": ["neighbor"],
+    "bio": "Friendly neighbour from Calgary who helps with gardening tips.",
     "goal": 10,
     "next_due_date": "2026-04-20"
   },
   {
     "id": 7,
-    "name": "Linda Wu",
-    "picture": "https://i.pravatar.cc/250?img=10",
+    "name": "Ethan Parker",
+    "picture": "https://i.pravatar.cc/250?img=47",
     "email": "linda.wu@example.com",
     "days_since_contact": 11,
     "status": "almost due",
-    "tags": [
-      "college"
-    ],
-    "bio": "Study partner from CS101. Brilliant software engineer.",
+    "tags": ["college"],
+    "bio": "Study partner from University of Toronto. Brilliant and focused.",
     "goal": 14,
     "next_due_date": "2026-04-17"
   },
   {
     "id": 8,
-    "name": "Robert Brown",
-    "picture": "https://i.pravatar.cc/250?img=14",
+    "name": "Sophia Roberts",
+    "picture": "https://i.pravatar.cc/250?img=48",
     "email": "rob.b@example.com",
     "days_since_contact": 2,
     "status": "on-track",
-    "tags": [
-      "gaming"
-    ],
-    "bio": "Part of my weekend raid team. Great strategist.",
+    "tags": ["gaming"],
+    "bio": "Online gaming buddy from Halifax. Great strategist in every match.",
     "goal": 7,
     "next_due_date": "2026-04-19"
   },
   {
     "id": 9,
-    "name": "Emily Davis",
-    "picture": "https://i.pravatar.cc/250?img=16",
+    "name": "Mason Walker",
+    "picture": "https://i.pravatar.cc/250?img=49",
     "email": "emily.d@example.com",
     "days_since_contact": 18,
     "status": "overdue",
-    "tags": [
-      "high school"
-    ],
-    "bio": "We were in the school band together.",
+    "tags": ["high school"],
+    "bio": "High school friend from Winnipeg. Shared many school memories.",
     "goal": 14,
     "next_due_date": "2026-04-08"
   },
   {
     "id": 10,
-    "name": "William Taylor",
-    "picture": "https://i.pravatar.cc/250?img=15",
+    "name": "Isabella Hall",
+    "picture": "https://i.pravatar.cc/250?img=50",
     "email": "will.t@example.com",
     "days_since_contact": 4,
     "status": "on-track",
-    "tags": [
-      "book club"
-    ],
-    "bio": "Reads faster than anyone I know. Great discussions.",
+    "tags": ["book club"],
+    "bio": "Book club friend from Vancouver who loves deep discussions.",
     "goal": 14,
     "next_due_date": "2026-04-24"
   },
   {
     "id": 11,
-    "name": "Sophia Martinez",
-    "picture": "https://i.pravatar.cc/250?img=20",
+    "name": "Logan Young",
+    "picture": "https://i.pravatar.cc/250?img=52",
     "email": "sophia.m@example.com",
     "days_since_contact": 28,
     "status": "overdue",
-    "tags": [
-      "family"
-    ],
-    "bio": "Cousin from out of state. Always a blast to catch up.",
+    "tags": ["family"],
+    "bio": "Cousin from Toronto. We meet during holidays and family events.",
     "goal": 30,
     "next_due_date": "2026-04-01"
   },
   {
     "id": 12,
-    "name": "Charles Anderson",
-    "picture": "https://i.pravatar.cc/250?img=51",
+    "name": "Chloe King",
+    "picture": "https://i.pravatar.cc/250?img=53",
     "email": "charles.a@example.com",
     "days_since_contact": 8,
     "status": "almost due",
-    "tags": [
-      "golf"
-    ],
-    "bio": "Met on the course. Has a terrible swing but great jokes.",
+    "tags": ["golf"],
+    "bio": "Golf buddy from Toronto. Funny personality and relaxed vibe.",
     "goal": 10,
     "next_due_date": "2026-04-16"
   },
   {
     "id": 13,
-    "name": "Isabella Thomas",
-    "picture": "https://i.pravatar.cc/250?img=22",
+    "name": "Benjamin Scott",
+    "picture": "https://i.pravatar.cc/250?img=54",
     "email": "bella.t@example.com",
     "days_since_contact": 1,
     "status": "on-track",
-    "tags": [
-      "yoga"
-    ],
-    "bio": "Yoga instructor and great listener.",
+    "tags": ["yoga"],
+    "bio": "Yoga instructor from Ottawa with a calm and mindful approach.",
     "goal": 7,
     "next_due_date": "2026-04-20"
   },
   {
     "id": 14,
-    "name": "Thomas Jackson",
-    "picture": "https://i.pravatar.cc/250?img=53",
+    "name": "Grace Morgan",
+    "picture": "https://i.pravatar.cc/250?img=55",
     "email": "tom.j@example.com",
     "days_since_contact": 13,
     "status": "almost due",
-    "tags": [
-      "work"
-    ],
-    "bio": "Project manager. Keeps everything organized.",
+    "tags": ["work"],
+    "bio": "Project manager from a Toronto tech company. Very organized.",
     "goal": 14,
     "next_due_date": "2026-04-15"
   },
   {
     "id": 15,
-    "name": "Mia White",
-    "picture": "https://i.pravatar.cc/250?img=24",
+    "name": "Jacob Reed",
+    "picture": "https://i.pravatar.cc/250?img=56",
     "email": "mia.w@example.com",
     "days_since_contact": 35,
     "status": "overdue",
-    "tags": [
-      "travel"
-    ],
-    "bio": "Always on a new adventure. Hard to pin down.",
+    "tags": ["travel"],
+    "bio": "Travel blogger from Vancouver always exploring new places.",
     "goal": 30,
     "next_due_date": "2026-03-25"
   },
   {
     "id": 16,
-    "name": "Daniel Harris",
-    "picture": "https://i.pravatar.cc/250?img=55",
+    "name": "Emily Johnson",
+    "picture": "https://i.pravatar.cc/250?img=57",
     "email": "dan.h@example.com",
     "days_since_contact": 5,
     "status": "on-track",
-    "tags": [
-      "college"
-    ],
-    "bio": "Roommate for 3 years. Survived purely on instant noodles.",
+    "tags": ["college"],
+    "bio": "University roommate from Montreal. Shared many late-night study sessions.",
     "goal": 14,
     "next_due_date": "2026-04-23"
   },
   {
     "id": 17,
-    "name": "Charlotte Martin",
-    "picture": "https://i.pravatar.cc/250?img=26",
+    "name": "Henry Brooks",
+    "picture": "https://i.pravatar.cc/250?img=58",
     "email": "char.m@example.com",
     "days_since_contact": 20,
     "status": "overdue",
-    "tags": [
-      "art class"
-    ],
-    "bio": "Incredibly talented painter. Inspires me to be creative.",
+    "tags": ["art class"],
+    "bio": "Artist from Quebec City. Very creative and inspiring personality.",
     "goal": 14,
     "next_due_date": "2026-04-08"
   },
   {
     "id": 18,
-    "name": "Matthew Thompson",
-    "picture": "https://i.pravatar.cc/250?img=57",
+    "name": "Charlotte Lewis",
+    "picture": "https://i.pravatar.cc/250?img=59",
     "email": "matt.t@example.com",
     "days_since_contact": 2,
     "status": "on-track",
-    "tags": [
-      "cycling"
-    ],
-    "bio": "Rides 50 miles every Saturday. Crazy stamina.",
+    "tags": ["cycling"],
+    "bio": "Cycling partner from Calgary. Rides long distances every weekend.",
     "goal": 7,
     "next_due_date": "2026-04-19"
   },
   {
     "id": 19,
-    "name": "Amelia Garcia",
-    "picture": "https://i.pravatar.cc/250?img=28",
+    "name": "Daniel Foster",
+    "picture": "https://i.pravatar.cc/250?img=60",
     "email": "amy.g@example.com",
     "days_since_contact": 12,
     "status": "almost due",
-    "tags": [
-      "work",
-      "close friend"
-    ],
-    "bio": "Work bestie. We survive meetings via side chats.",
+    "tags": ["work", "close friend"],
+    "bio": "Work friend from a Toronto office. We often chat during breaks.",
     "goal": 14,
     "next_due_date": "2026-04-16"
   },
   {
     "id": 20,
-    "name": "Joseph Clark",
-    "picture": "https://i.pravatar.cc/250?img=59",
+    "name": "Sophie Martin",
+    "picture": "https://i.pravatar.cc/250?img=61",
     "email": "joe.c@example.com",
     "days_since_contact": 40,
     "status": "overdue",
-    "tags": [
-      "old job"
-    ],
-    "bio": "Former boss. Still catch up for drinks occasionally.",
+    "tags": ["old job"],
+    "bio": "Former manager from Vancouver office. Still in touch occasionally.",
     "goal": 30,
     "next_due_date": "2026-03-20"
   }
