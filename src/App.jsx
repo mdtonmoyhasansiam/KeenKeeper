@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Navigation from './components/Navigation';
-import Footer from './components/Footer';
+import FooterSection from './components/FooterSection';
 import Home from './pages/Home';
 import FriendDetail from './pages/FriendDetail';
 import Timeline from './pages/Timeline';
@@ -23,7 +23,7 @@ function App() {
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
-        <Footer />
+        <FooterSection />
         <ToastContainer position="top-center" autoClose={2500} />
       </div>
     </Router>
