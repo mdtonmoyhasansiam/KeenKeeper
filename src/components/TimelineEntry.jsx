@@ -10,7 +10,7 @@ export default function TimelineEntry({ entry }) {
       <div className="flex-1">
         <p className="font-medium">{entry.title}</p>
         <p className="text-sm text-gray-500">{new Date(entry.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</p>
-      </div>,
+      </div>
     </div>
   );
 }
